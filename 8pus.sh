@@ -3,7 +3,8 @@
 #  8PUS - Advanced Bug Bounty & Web Reconnaissance Framework
 #  Version: 1.0
 #  Author: Zulfukar Karabulut
-#  GitHub: https://github.com/zkarabulut/8pus
+#  GitHub: https://github.com/2u1fuk4r/octopus/
+#  Linkedin: https://www.linkedin.com/in/2u1fuk4r/
 #═══════════════════════════════════════════════════════════════════════════════
 
 set -o pipefail
