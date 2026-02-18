@@ -28,10 +28,10 @@
 - Auto-generated Excel report (styled)
 
  📦 Usage
-chmod +x install.sh
-./install.sh
+ chmod +x install.sh
+ ./install.sh
  bash octopus.sh -d example.com
-</p>
+
 
 <p align="center">
 
