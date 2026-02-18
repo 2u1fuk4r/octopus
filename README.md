@@ -27,20 +27,19 @@
 - Interrupt-safe reporting (CTRL+C)
 - Auto-generated Excel report (styled)
 
-
-recon_target_timestamp/
-├── 01_subdomains/
-├── 02_alive/
-├── 03_urls/
-├── 04_categorized/
-├── 05_xss/
-└── 06_report/
-
-
  📦 Usage
 chmod +x install.sh
 ./install.sh
  bash octopus.sh -d example.com
 </p>
 
+<p align="center">
+
+![Bash](https://img.shields.io/badge/Bash-Script-black?style=for-the-badge&logo=gnu-bash)
+![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
+![Security](https://img.shields.io/badge/Purpose-Offensive%20Security-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Category-Recon%20Tool-purple?style=for-the-badge)
+
+</p>
 
