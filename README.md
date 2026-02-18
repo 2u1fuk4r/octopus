@@ -7,7 +7,7 @@
 
 ## 🚀 What It Does
 
- octopus.sh automates a full recon pipeline:
+ octopus automates a full recon pipeline:
 
 - 🔎 Subdomain enumeration  
 - 🌐 Alive host detection  
@@ -37,9 +37,9 @@ recon_target_timestamp/
 
 <p>
 ## 📦 Usage
-chmod +x install.sh
-./install.sh
-bash octopus.sh -d example.com
+## chmod +x install.sh
+## ./install.sh
+### bash octopus.sh -d example.com
 </p>
 
 ![Bash](https://img.shields.io/badge/Bash-Script-black?style=for-the-badge&logo=gnu-bash)
