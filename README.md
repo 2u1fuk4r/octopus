@@ -1,4 +1,5 @@
-<img width="297" height="162" alt="image" src="https://github.com/user-attachments/assets/2056c8f1-6403-4597-b45f-0c64da3ab081" />
+<img width="571" height="252" alt="image" src="https://github.com/user-attachments/assets/65e26bb8-c998-4dec-b55c-7d5eabee70eb" />
+
 
 # 🐙 octopus.sh (8PUS)
 
