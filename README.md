@@ -35,16 +35,12 @@ recon_target_timestamp/
 ├── 05_xss/
 └── 06_report/
 
-
+<p>
 ## 📦 Usage
-=======================================
 chmod +x install.sh
 ./install.sh
 bash octopus.sh -d example.com
-=======================================
-```bash
-
-<p align="center">
+</p>
 
 ![Bash](https://img.shields.io/badge/Bash-Script-black?style=for-the-badge&logo=gnu-bash)
 ![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
